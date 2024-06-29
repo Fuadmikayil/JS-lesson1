@@ -11,3 +11,9 @@ console.log(`Evlidirmi: ${userİsRich}`)
 console.log(`Car: ${userHasCar}`)
 */
 let a= Math.random();
+console.log(Math.floor(a*10+1))
+
+text = "Once hace , once not have , there one Fındıq in the ";
+console.log(text);
+console.log(text.toLowerCase())
+console.log(text.toUpperCase())
